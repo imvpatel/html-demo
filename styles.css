@@ -1,11 +1,15 @@
-body{
-    /*
-    background-color: blueviolet;
-    */
+body
+{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicurious.com%2Fexpert-advice%2Fcoffee-bean-terms&psig=AOvVaw0by0cU4ssJVQucidJtqViQ&ust=1708940023602000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODAgOqXxoQDFQAAAAAdAAAAABAE);
 }
-h1, h2, p {
+h1, h2, p 
+{
     text-align: center;
 }
-#menu{
-    width: 300px;
+#menu
+{
+    width: 80%;
+    background-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
 }
