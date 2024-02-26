@@ -11,6 +11,9 @@ h1, h2, p
     margin-left: auto;
     margin-right: auto;
 }
+.item p{
+    display: inline-block;
+}
 .flavor{
     text-align: left;
 }
