@@ -1,31 +1,32 @@
-body
-{
-    background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
-}
-h1, h2, p
-{
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  }
+  
+  h1, h2, p {
     text-align: center;
-}
-.menu
-{
+  }
+  
+  .menu {
     width: 80%;
-    background-color: blanchedalmond;
+    background-color: burlywood;
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
     padding-right: 20px;
-}
-.item p
-{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .item p {
     display: inline-block;
-}
-.flavor
-{
+  }
+  
+  .flavor, .dessert {
     text-align: left;
     width: 75%;
-}
-.price
-{
+  }
+  
+  .price {
     text-align: right;
-    width: 25%;
-}
+    width: 25%
+  }
