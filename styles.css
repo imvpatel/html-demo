@@ -12,6 +12,8 @@ h1, h2, p
     background-color: blanchedalmond;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .item p
 {
@@ -25,5 +27,5 @@ h1, h2, p
 .price
 {
     text-align: right;
-    width: 50%;
+    width: 25%;
 }
